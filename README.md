@@ -17,4 +17,4 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
-Cursando Tecnologia em Desenvolvimento de Software Multiplataforma pela Fatec, sempre buscando aprender mais.
+Cursando Tecnologia em Desenvolvimento de Software Multiplataforma pela Fatec, sempre em busca de mais conhecimento.
